@@ -1,0 +1,18 @@
+## Fuer Eclipse
+
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+.settings/
+.loadpath
+*.launch
+
+## Fuer IntelliJ
+
+.metadata
+.idea
+.idea/**
+out/**
+out/**/*
+TEAM_NR.iml
